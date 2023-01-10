@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is BlackyFox (KitsueFox), I work in the IT Industry currently looking for work. I program for fun and mainly as a hobby, I have fun Modding Unity Based Games. I'm a huge Tech and VR enthusiast.
 
 <!--
 **KitsueFox/KitsueFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
