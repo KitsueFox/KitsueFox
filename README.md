@@ -2,6 +2,14 @@
 
 My name is BlackyFox (KitsueFox), I work in the IT Industry currently looking for work. I program for fun and mainly as a hobby, I have fun Modding Unity Based Games. I'm a huge Tech and VR enthusiast.
 
+- - - 
+
+## Hardware
+- Desktop:&nbsp;![Windows 11](https://img.shields.io/badge/Windows_11-blue?style=flat-square&logo=windows11&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-Ryzen_9_5900X-red?style=flat-square&logo=amd&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsuefox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KitsueFox/KitsueFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
