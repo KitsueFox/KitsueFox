@@ -44,4 +44,4 @@ My name is BlackyFox, I work in the IT Industry currently looking for work. I pr
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
  [![BlackyFox's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kitsuefox&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- ![BlackyFox's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kitsuefox&hide=TeX&layout=compact&include_all_commits=true&theme=dark)]
+ ![BlackyFox's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kitsuefox&hide=TeX&layout=compact&include_all_commits=true&theme=dark)
